@@ -1,0 +1,20 @@
+---
+title: "Great Is Thy Faithfulness"
+categories: ["Thanksgiving"]
+song_id: "S004"
+song_language: "English"
+song_type: "Hymn"
+key: "D"
+composer: "Thomas Chisholm"
+folder: "Folder 2"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+*Lyrics not yet entered.*
+:::
+

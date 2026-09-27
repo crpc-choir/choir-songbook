@@ -1,0 +1,19 @@
+---
+title: "Praise"
+listing:
+  contents:
+    - ../songs/S002-holy-holy-holy.qmd
+    - ../songs/S003-blessed-assurance.qmd
+    - ../songs/S006-joy-to-the-world.qmd
+    - ../songs/S007-oba-ni-jesu.qmd
+  type: table
+  sort: "title"
+  filter-ui: true
+  fields: [title, song_language, song_type, key, folder]
+  field-display-names:
+    title: "Song"
+    song_language: "Language"
+    song_type: "Type"
+    key: "Key"
+    folder: "Vestry folder"
+---

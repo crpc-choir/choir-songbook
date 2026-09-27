@@ -1,0 +1,20 @@
+---
+title: "Blessed Assurance"
+categories: ["Thanksgiving", "Praise"]
+song_id: "S003"
+song_language: "English"
+song_type: "Hymn"
+key: "D"
+composer: "Fanny Crosby"
+folder: "Folder 2"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+*Lyrics not yet entered.*
+:::
+

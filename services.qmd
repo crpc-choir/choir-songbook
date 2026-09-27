@@ -1,0 +1,13 @@
+---
+title: "Service orders"
+listing:
+  contents: services
+  type: table
+  sort: "date desc"
+  fields: [date, title]
+  field-display-names:
+    date: "Date"
+    title: "Service"
+---
+
+The songs chosen for each service, newest first.

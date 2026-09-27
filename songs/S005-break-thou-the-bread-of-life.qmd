@@ -1,0 +1,20 @@
+---
+title: "Break Thou the Bread of Life"
+categories: ["Communion"]
+song_id: "S005"
+song_language: "English"
+song_type: "Hymn"
+key: "F"
+composer: "Mary Lathbury"
+folder: "Folder 3"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+*Lyrics not yet entered.*
+:::
+

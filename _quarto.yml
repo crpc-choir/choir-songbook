@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+    - how-to.qmd
+    - services.qmd
+    - "songs/*.qmd"
+    - "topics/*.qmd"
+    - "services/*.qmd"
+
+website:
+  title: "Choir Songbook"          # change to your church's name
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - href: index.qmd
+        text: All songs
+      - href: topics/index.qmd
+        text: Topics
+      - href: services.qmd
+        text: Service orders
+      - href: how-to.qmd
+        text: Adding songs
+  page-footer:
+    center: "For internal use by the choir."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false

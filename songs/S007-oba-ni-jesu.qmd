@@ -1,0 +1,20 @@
+---
+title: "Oba ni Jesu"
+categories: ["Worship", "Praise"]
+song_id: "S007"
+song_language: "Yoruba"
+song_type: "Special Number"
+key: "F"
+composer: "CACSA Unilorin"
+folder: "Folder 1"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+*Lyrics not yet entered.*
+:::
+

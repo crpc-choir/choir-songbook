@@ -1,0 +1,30 @@
+---
+title: "Amazing Grace"
+categories: ["Worship", "Salvation and Altar Call", "Prayer"]
+song_id: "S001"
+song_language: "English"
+song_type: "Hymn"
+key: "G"
+composer: "John Newton"
+folder: "Folder 1"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+### Verse 1
+| Amazing grace! how sweet the sound
+| That saved a wretch like me!
+| I once was lost, but now am found,
+| Was blind, but now I see.
+
+### Verse 2
+| 'Twas grace that taught my heart to fear,
+| And grace my fears relieved;
+| How precious did that grace appear
+| The hour I first believed!
+:::
+

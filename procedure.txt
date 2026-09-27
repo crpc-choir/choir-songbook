@@ -1,0 +1,8 @@
+When you're ready to add real songs:
+
+Leave the preview running in the Terminal.
+Edit data/catalogue.csv and save.
+In the Console, set the folder and run the script:
+   
+setwd("D:/softdata_consult/Projects/choir_songsbook/choir-songbook")
+source("R/build_songs.R")

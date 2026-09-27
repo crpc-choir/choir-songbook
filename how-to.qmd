@@ -1,0 +1,32 @@
+---
+title: "Adding and editing songs"
+---
+
+## Adding new songs
+
+1. Open `data/catalogue.csv` in Excel or LibreOffice and add a row for each song. Give each song a new `id` (S007, S008, and so on) and never reuse or change an id.
+2. Put topics in the `topics` column separated by semicolons, for example `Worship; Thanksgiving`. Spell topics the same way every time, since each spelling becomes its own topic page.
+3. Save as CSV (UTF-8), then in RStudio run `source("R/build_songs.R")`.
+
+The script creates a page in `songs/` for every new song and rebuilds all topic pages. Running it again is always safe: it updates the details at the top of each song page but never touches lyrics you have typed.
+
+## Typing lyrics
+
+Open the song's file in `songs/` and replace the placeholder under `::: {.lyrics}`. Start each line with `| ` so line breaks are kept, and leave a blank line between verses:
+
+```
+### Verse 1
+| First line of the verse
+| Second line of the verse
+
+### Chorus
+| First line of the chorus
+```
+
+## Planning a service
+
+Copy a file in `services/`, rename it with the service date, and list the songs. Links to songs use their file name, for example `../songs/S001-amazing-grace.qmd`.
+
+## Publishing
+
+Commit and push to GitHub. The site rebuilds itself within a couple of minutes.

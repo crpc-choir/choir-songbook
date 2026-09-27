@@ -1,0 +1,21 @@
+---
+title: "All songs"
+listing:
+  contents: songs
+  type: table
+  sort: "title"
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  page-size: 50
+  fields: [title, categories, song_language, song_type, key, folder]
+  field-display-names:
+    title: "Song"
+    categories: "Topics"
+    song_language: "Language"
+    song_type: "Type"
+    key: "Key"
+    folder: "Vestry folder"
+---
+
+Search by title, or pick a topic on the right to see only those songs.

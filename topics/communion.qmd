@@ -1,0 +1,16 @@
+---
+title: "Communion"
+listing:
+  contents:
+    - ../songs/S005-break-thou-the-bread-of-life.qmd
+  type: table
+  sort: "title"
+  filter-ui: true
+  fields: [title, song_language, song_type, key, folder]
+  field-display-names:
+    title: "Song"
+    song_language: "Language"
+    song_type: "Type"
+    key: "Key"
+    folder: "Vestry folder"
+---

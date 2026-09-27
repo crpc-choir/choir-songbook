@@ -1,0 +1,20 @@
+---
+title: "Holy, Holy, Holy"
+categories: ["Worship", "Praise"]
+song_id: "S002"
+song_language: "English"
+song_type: "Hymn"
+key: "D"
+composer: "Reginald Heber"
+folder: "Folder 1"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+*Lyrics not yet entered.*
+:::
+

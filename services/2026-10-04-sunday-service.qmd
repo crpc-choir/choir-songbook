@@ -1,0 +1,10 @@
+---
+title: "Sunday service"
+date: 2026-10-04
+---
+
+| Order | Part of service | Song |
+|---|---|---|
+| 1 | Opening | [Holy, Holy, Holy](../songs/S002-holy-holy-holy.qmd) |
+| 2 | Thanksgiving | [Great Is Thy Faithfulness](../songs/S004-great-is-thy-faithfulness.qmd) |
+| 3 | Altar call | [Amazing Grace](../songs/S001-amazing-grace.qmd) |
