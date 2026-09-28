@@ -10,11 +10,13 @@ project:
     - "services/*.qmd"
 
 website:
-  title: "CRPC Choir Songbook"          # change to your church's name
+  title: "CRPC Choir Songbook"          
+  favicon: images/logo.png
   search:
     location: navbar
     type: overlay
   navbar:
+    logo: images/logo.png
     left:
       - href: index.qmd
         text: All songs
