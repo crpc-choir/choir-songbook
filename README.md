@@ -2,7 +2,7 @@
 
 A searchable song library for the choir, organised by topic, built with Quarto and published on GitHub Pages.
 
-**Live site:** https://softdataconsult.github.io/choir-songbook/
+**Live site:** https://github.com/crpc-choir/choir-songbook/
 
 Choir members only need the link. It opens in any phone browser, and can be added to the home screen like an app.
 
