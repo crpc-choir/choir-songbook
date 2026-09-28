@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "services/2026-10-04-sunday-service.html",
+    "href": "services/2026-10-04-sunday-service.html",
+    "title": "Sunday service",
+    "section": "",
+    "text": "Order\nPart of service\nSong\n\n\n\n\n1\nOpening\nHoly, Holy, Holy\n\n\n2\nThanksgiving\nGreat Is Thy Faithfulness\n\n\n3\nAltar call\nAmazing Grace"
+  },
+  {
+    "objectID": "topics/thanksgiving.html",
+    "href": "topics/thanksgiving.html",
+    "title": "Thanksgiving",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Song\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSong\n\n\n\nLanguage\n\n\n\nType\n\n\n\nKey\n\n\n\nVestry folder\n\n\n\n\n\n\n\n\nBlessed Assurance\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 2\n\n\n\n\n\n\nGreat Is Thy Faithfulness\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 2\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "topics/prayer.html",
+    "href": "topics/prayer.html",
+    "title": "Prayer",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Song\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSong\n\n\n\nLanguage\n\n\n\nType\n\n\n\nKey\n\n\n\nVestry folder\n\n\n\n\n\n\n\n\nAmazing Grace\n\n\nEnglish\n\n\nHymn\n\n\nG\n\n\nFolder 1\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "topics/index.html",
+    "href": "topics/index.html",
+    "title": "Topics",
+    "section": "",
+    "text": "Christmas (1)\nCommunion (1)\nPraise (3)\nPrayer (1)\nSalvation and Altar Call (1)\nThanksgiving (2)\nWorship (2)"
+  },
+  {
+    "objectID": "topics/christmas.html",
+    "href": "topics/christmas.html",
+    "title": "Christmas",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Song\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSong\n\n\n\nLanguage\n\n\n\nType\n\n\n\nKey\n\n\n\nVestry folder\n\n\n\n\n\n\n\n\nJoy to the World\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 4\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "songs/S005-break-thou-the-bread-of-life.html",
+    "href": "songs/S005-break-thou-the-bread-of-life.html",
+    "title": "Break Thou the Bread of Life",
+    "section": "",
+    "text": "Language: English | Type: Hymn | Key: F | Composer: Mary Lathbury | Vestry folder: Folder 3\n\n\nLyrics not yet entered."
+  },
+  {
+    "objectID": "songs/S003-blessed-assurance.html",
+    "href": "songs/S003-blessed-assurance.html",
+    "title": "Blessed Assurance",
+    "section": "",
+    "text": "Language: English | Type: Hymn | Key: D | Composer: Fanny Crosby | Vestry folder: Folder 2\n\n\nLyrics not yet entered."
+  },
+  {
+    "objectID": "songs/S001-amazing-grace.html",
+    "href": "songs/S001-amazing-grace.html",
+    "title": "Amazing Grace",
+    "section": "",
+    "text": "Language: English | Type: Hymn | Key: G | Composer: John Newton | Vestry folder: Folder 1\n\n\n\nVerse 1\nAmazing grace! how sweet the sound\nThat saved a wretch like me!\nI once was lost, but now am found,\nWas blind, but now I see.\n\n\nVerse 2\n’Twas grace that taught my heart to fear,\nAnd grace my fears relieved;\nHow precious did that grace appear\nThe hour I first believed!"
+  },
+  {
+    "objectID": "how-to.html",
+    "href": "how-to.html",
+    "title": "Adding and editing songs",
+    "section": "",
+    "text": "Open data/catalogue.csv in Excel or LibreOffice and add a row for each song. Give each song a new id (S007, S008, and so on) and never reuse or change an id.\nPut topics in the topics column separated by semicolons, for example Worship; Thanksgiving. Spell topics the same way every time, since each spelling becomes its own topic page.\nSave as CSV (UTF-8), then in RStudio run source(\"R/build_songs.R\").\n\nThe script creates a page in songs/ for every new song and rebuilds all topic pages. Running it again is always safe: it updates the details at the top of each song page but never touches lyrics you have typed."
+  },
+  {
+    "objectID": "how-to.html#adding-new-songs",
+    "href": "how-to.html#adding-new-songs",
+    "title": "Adding and editing songs",
+    "section": "",
+    "text": "Open data/catalogue.csv in Excel or LibreOffice and add a row for each song. Give each song a new id (S007, S008, and so on) and never reuse or change an id.\nPut topics in the topics column separated by semicolons, for example Worship; Thanksgiving. Spell topics the same way every time, since each spelling becomes its own topic page.\nSave as CSV (UTF-8), then in RStudio run source(\"R/build_songs.R\").\n\nThe script creates a page in songs/ for every new song and rebuilds all topic pages. Running it again is always safe: it updates the details at the top of each song page but never touches lyrics you have typed."
+  },
+  {
+    "objectID": "how-to.html#typing-lyrics",
+    "href": "how-to.html#typing-lyrics",
+    "title": "Adding and editing songs",
+    "section": "Typing lyrics",
+    "text": "Typing lyrics\nOpen the song’s file in songs/ and replace the placeholder under ::: {.lyrics}. Start each line with | so line breaks are kept, and leave a blank line between verses:\n### Verse 1\n| First line of the verse\n| Second line of the verse\n\n### Chorus\n| First line of the chorus"
+  },
+  {
+    "objectID": "how-to.html#planning-a-service",
+    "href": "how-to.html#planning-a-service",
+    "title": "Adding and editing songs",
+    "section": "Planning a service",
+    "text": "Planning a service\nCopy a file in services/, rename it with the service date, and list the songs. Links to songs use their file name, for example ../songs/S001-amazing-grace.qmd."
+  },
+  {
+    "objectID": "how-to.html#publishing",
+    "href": "how-to.html#publishing",
+    "title": "Adding and editing songs",
+    "section": "Publishing",
+    "text": "Publishing\nCommit and push to GitHub. The site rebuilds itself within a couple of minutes."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "All songs",
+    "section": "",
+    "text": "Search by title, or pick a topic on the right to see only those songs.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Song\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSong\n\n\n\nTopics\n\n\n\nLanguage\n\n\n\nType\n\n\n\nKey\n\n\n\nVestry folder\n\n\n\n\n\n\n\n\nAmazing Grace\n\n\nWorship, Salvation and Altar Call, Prayer\n\n\nEnglish\n\n\nHymn\n\n\nG\n\n\nFolder 1\n\n\n\n\n\n\nBlessed Assurance\n\n\nThanksgiving, Praise\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 2\n\n\n\n\n\n\nBreak Thou the Bread of Life\n\n\nCommunion\n\n\nEnglish\n\n\nHymn\n\n\nF\n\n\nFolder 3\n\n\n\n\n\n\nGreat Is Thy Faithfulness\n\n\nThanksgiving\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 2\n\n\n\n\n\n\nHoly, Holy, Holy\n\n\nWorship, Praise\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 1\n\n\n\n\n\n\nJoy to the World\n\n\nChristmas, Praise\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 4\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Service orders",
+    "section": "",
+    "text": "The songs chosen for each service, newest first.\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Service\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\n\nService\n\n\n\n\n\n\n\n\nOct 4, 2026\n\n\nSunday service\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "songs/S002-holy-holy-holy.html",
+    "href": "songs/S002-holy-holy-holy.html",
+    "title": "Holy, Holy, Holy",
+    "section": "",
+    "text": "Language: English | Type: Hymn | Key: D | Composer: Reginald Heber | Vestry folder: Folder 1\n\n\nLyrics not yet entered."
+  },
+  {
+    "objectID": "songs/S004-great-is-thy-faithfulness.html",
+    "href": "songs/S004-great-is-thy-faithfulness.html",
+    "title": "Great Is Thy Faithfulness",
+    "section": "",
+    "text": "Language: English | Type: Hymn | Key: D | Composer: Thomas Chisholm | Vestry folder: Folder 2\n\n\nLyrics not yet entered."
+  },
+  {
+    "objectID": "songs/S006-joy-to-the-world.html",
+    "href": "songs/S006-joy-to-the-world.html",
+    "title": "Joy to the World",
+    "section": "",
+    "text": "Language: English | Type: Hymn | Key: D | Composer: Isaac Watts | Vestry folder: Folder 4\n\n\nLyrics not yet entered."
+  },
+  {
+    "objectID": "topics/communion.html",
+    "href": "topics/communion.html",
+    "title": "Communion",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Song\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSong\n\n\n\nLanguage\n\n\n\nType\n\n\n\nKey\n\n\n\nVestry folder\n\n\n\n\n\n\n\n\nBreak Thou the Bread of Life\n\n\nEnglish\n\n\nHymn\n\n\nF\n\n\nFolder 3\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "topics/praise.html",
+    "href": "topics/praise.html",
+    "title": "Praise",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Song\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSong\n\n\n\nLanguage\n\n\n\nType\n\n\n\nKey\n\n\n\nVestry folder\n\n\n\n\n\n\n\n\nBlessed Assurance\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 2\n\n\n\n\n\n\nHoly, Holy, Holy\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 1\n\n\n\n\n\n\nJoy to the World\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 4\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "topics/salvation-and-altar-call.html",
+    "href": "topics/salvation-and-altar-call.html",
+    "title": "Salvation and Altar Call",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Song\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSong\n\n\n\nLanguage\n\n\n\nType\n\n\n\nKey\n\n\n\nVestry folder\n\n\n\n\n\n\n\n\nAmazing Grace\n\n\nEnglish\n\n\nHymn\n\n\nG\n\n\nFolder 1\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "topics/worship.html",
+    "href": "topics/worship.html",
+    "title": "Worship",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Song\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSong\n\n\n\nLanguage\n\n\n\nType\n\n\n\nKey\n\n\n\nVestry folder\n\n\n\n\n\n\n\n\nAmazing Grace\n\n\nEnglish\n\n\nHymn\n\n\nG\n\n\nFolder 1\n\n\n\n\n\n\nHoly, Holy, Holy\n\n\nEnglish\n\n\nHymn\n\n\nD\n\n\nFolder 1\n\n\n\n\n\n\nNo matching items"
+  }
+]

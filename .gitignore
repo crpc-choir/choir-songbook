@@ -4,8 +4,11 @@
 .Rproj.user/
 
 **/*.quarto_ipynb
+<<<<<<< Updated upstream
 .Rproj.user
 .RData
 .httr-oauth
 .DS_Store
 .quarto
+=======
+>>>>>>> Stashed changes
