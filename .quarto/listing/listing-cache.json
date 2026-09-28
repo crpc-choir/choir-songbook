@@ -15,7 +15,8 @@
     "topics\\praise.qmd": [
       "../songs/S002-holy-holy-holy.qmd",
       "../songs/S003-blessed-assurance.qmd",
-      "../songs/S006-joy-to-the-world.qmd"
+      "../songs/S006-joy-to-the-world.qmd",
+      "../songs/S007-oba-ni-jesu.qmd"
     ],
     "topics\\prayer.qmd": [
       "../songs/S001-amazing-grace.qmd"
@@ -29,7 +30,8 @@
     ],
     "topics\\worship.qmd": [
       "../songs/S001-amazing-grace.qmd",
-      "../songs/S002-holy-holy-holy.qmd"
+      "../songs/S002-holy-holy-holy.qmd",
+      "../songs/S007-oba-ni-jesu.qmd"
     ]
   }
 }

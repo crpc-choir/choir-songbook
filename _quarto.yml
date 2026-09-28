@@ -10,7 +10,7 @@ project:
     - "services/*.qmd"
 
 website:
-  title: "Choir Songbook"          # change to your church's name
+  title: "CRPC Choir Songbook"          # change to your church's name
   search:
     location: navbar
     type: overlay

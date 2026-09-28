@@ -1,17 +1,13 @@
-When you're ready to add real songs:
+The choir can now open it on any phone at https://softdataconsult.github.io/choir-songbook/.
 
-Leave the preview running in the Terminal.
-Edit data/catalogue.csv and save.
-In the Console, set the folder and run the script:
+Your routine from now on:
 
+Edit data/catalogue.csv, then run source("R/build_songs.R") in the Console.
 
-setwd("D:/softdata_consult/Projects/choir_songsbook/choir-songbook")
-source("R/build_songs.R")
+Type lyrics into the files in songs/.
 
-# to render
-quarto preview
-
-#move to the prompt
-control + c
-
-
+In the Terminal, run:
+   quarto render
+   git add .
+   git commit -m "Add new songs"
+   git push
