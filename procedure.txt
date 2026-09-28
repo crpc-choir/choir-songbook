@@ -7,7 +7,7 @@ Edit data/catalogue.csv, then run source("R/build_songs.R") in the Console.
 Type lyrics into the files in songs/.
 
 In the Terminal, run:
-   quarto render
-   git add .
-   git commit -m "Add new songs"
-   git push
+quarto render
+git add .
+git commit -m "Add church logo"
+git push

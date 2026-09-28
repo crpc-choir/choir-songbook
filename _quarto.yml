@@ -10,6 +10,10 @@ project:
     - "services/*.qmd"
 
 website:
+  site-url: https://crpc-choir.github.io/choir-songbook/
+  description: "Topic-by-topic songbook for the CRPC choir"
+  image: images/share.png
+  open-graph: true
   title: "CRPC Choir Songbook"          
   favicon: images/logo.png
   search:
