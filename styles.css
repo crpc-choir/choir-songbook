@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap');
+
+:root {
+  --cloth: #1F3A2E;   /* hymnal-cover green */
+  --gilt:  #A8832F;   /* gold-leaf accent   */
+  --page:  #FBFBF8;
+  --ink:   #1A1A1A;
+  --muted: #5E6660;
+  --rule:  #DCDFD9;
+}
+
+body {
+  background: var(--page);
+  color: var(--ink);
+  font-family: 'Source Sans 3', system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+.song-page main, .lyrics { max-width: 60ch; }
+
+.navbar { background: var(--cloth) !important; border-bottom: 3px solid var(--gilt); }
+.navbar a, .navbar .navbar-title { color: #F3F1E8 !important; }
+
+h1, h2, h3, .title { font-family: 'Spectral', Georgia, serif; color: var(--cloth); }
+h1.title { font-size: 2.2rem; font-weight: 600; margin-bottom: .25rem; }
+
+a { color: var(--cloth); text-underline-offset: 3px; }
+a:hover { color: var(--gilt); }
+a:focus-visible { outline: 2px solid var(--gilt); outline-offset: 2px; }
+
+/* Category chips */
+.quarto-category, .listing-category {
+  background: transparent; border: 1px solid var(--gilt);
+  color: var(--cloth); border-radius: 999px; padding: 0 .6em; font-size: .85rem;
+}
+
+/* Song information line */
+.song-info { color: var(--muted); border-left: 3px solid var(--gilt); padding-left: .8rem; margin: 1rem 0 2rem; }
+
+/* Lyrics: serif, generous leading, verses clearly separated */
+.lyrics { font-family: 'Spectral', Georgia, serif; font-size: 1.2rem; line-height: 1.7; }
+.lyrics .line-block { margin-bottom: 1.4rem; }
+.lyrics h3 { font-size: 1rem; font-style: italic; font-weight: 400; color: var(--muted); margin: 1.5rem 0 .3rem; }
+
+/* Listing tables */
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; border-bottom: 2px solid var(--cloth); }
+td { border-bottom: 1px solid var(--rule); padding: .45rem .3rem; }
+
+/* Print: just the song, for rehearsal copies */
+@media print {
+  .navbar, #quarto-header, .nav-footer, .quarto-title-meta, .quarto-categories, .song-info { display: none !important; }
+  body { background: #fff; }
+  .lyrics { font-size: 13pt; }
+}
+
+/* Navbar icons readable on dark green */
+.navbar .bi, .navbar .aa-DetachedSearchButtonIcon, .navbar-toggler-icon { color: #F3F1E8 !important; }
+.navbar-toggler { border-color: rgba(243,241,232,.5); }
+.navbar-toggler-icon { filter: invert(1); }
+
+/* Topic chips in sentence case */
+.quarto-category { text-transform: none; font-size: .8rem; }
+
+/* Wide tables scroll sideways on phones instead of squashing */
+.quarto-listing-table { display: block; overflow-x: auto; white-space: nowrap; }
+.quarto-listing-table td:first-child { white-space: normal; min-width: 11rem; }
+.navbar .aa-SubmitIcon, .navbar .aa-DetachedSearchButtonIcon svg { color: #F3F1E8 !important; }
