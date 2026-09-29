@@ -15,6 +15,16 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 :::
 
 ::: {.lyrics}
-*Lyrics not yet entered.*
+### chorus
+| Emi mimo so fun mi pe maborio/2x ohun aye le gbona girigiri ki wahala opo/2x Emi mimo so fun mi pe mabo ri o.
+
+### Verse 1
+| Se wahala Nigeria lomi o lokan rogbodiyan aisonje at'ekun ojojumo oro-aje todo juru lomi olokan lofi pinu ninu okan wipe tire kole daramo mo ni royin ayo fun oo Emi so pon bo wada.
+
+### Verse 2
+| Hymn: okan are Ile kan mbe....
+
+### Verse 3
+| Ogun ota ni onfino bina t'obasun won leo tobaajo won ale o won o fio lokan bale won fe daye reru mase ronu mo mase bokanje Emi mimo ni kin wifuno pe Olorun lodao awon ko loda kiki k'ogbadura Emi so pon bowada. Chr
 :::
 

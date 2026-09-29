@@ -1,4 +1,6 @@
-The choir can now open it on any phone at https://softdataconsult.github.io/choir-songbook/.
+The choir repo on github:  https://github.com/crpc-choir/choir-songbook
+
+The choir can now open it on any phone at https://crpc-choir.github.io/choir-songbook/.
 
 Your routine from now on:
 
@@ -7,7 +9,9 @@ Edit data/catalogue.csv, then run source("R/build_songs.R") in the Console.
 Type lyrics into the files in songs/.
 
 In the Terminal, run:
+quarto preview
 quarto render
 git add .
-git commit -m "Add church logo"
+git commit -m "update on lyrics"
 git push
+

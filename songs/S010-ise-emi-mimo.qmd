@@ -15,6 +15,17 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 :::
 
 ::: {.lyrics}
-*Lyrics not yet entered.*
+### Chorus
+| Solo: Laisi Emi mimo Olorun l'aye onigbagbo 
+| All: kolofo lasan loje /2x Emi mimo latoni Sona ohun lofi oye yeni niti ese ati idajo
+
+### Verse 1
+| Ero ara iku ni (rp) sugbon ero temi jasi iye iye ayeraye/2x belawon towa ninu ara kole wu Olorun rara/2x kole sese.
+
+### Verse 2
+| Nitori ero ti ara ota ni si Olorun (rep) nitori kole teriba fun ofin Olorun ohun koti le lese awon ti a ti pa emi dari awon ni ise  Omo Olorun
+
+### Verse 3
+| Emaa rin ni pati emi l'oro Olorun wi (rp) Omo Olorun nitoto gbodo ni Emimimo/2x Emi mimo Olorun yi so ara kiku di aye(rp)o 
 :::
 

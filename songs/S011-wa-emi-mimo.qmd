@@ -15,6 +15,17 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 :::
 
 ::: {.lyrics}
-*Lyrics not yet entered.*
+### Chorus
+Wa Emi mimo jowo wa gbe wa wo fun wa l'agbara Emi mimo/fun wa l'agbara emi
+
+### Verse 1
+| Emi mimo gbe wa wo gbe wa wo baba/2x ninu orin wa o baba dakun tu ide. ko ja ide  ninu orin wao baba jeka ri anu gba Emi mimo (gbe wawo)2x baba o ati de.
+
+### Verse 2
+| Bi na ba wole okunkun aparada Emi orun o wole afe ri o kotu ide koja ide ko wa wo alaisan san niti pentecost ti lojosi lye niyara oke. Emi mimo (gbe wawo) loni o baba.
+
+### Verse 3
+| Olorun aye-agbara lawa yi ijoba orun da f'agbarawo alagbara lole gbaa femi Orun be wawo kale d'alagbara ninu re
+Hymn: Gbat'agbara Olorun de ...
 :::
 
