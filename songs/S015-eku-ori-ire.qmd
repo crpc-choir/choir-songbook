@@ -32,8 +32,8 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 | Iwo iyawo pe lori ekun re foko re ninu adura mase rojo oko re febi adura lolese se onje foko re lasiko gboro soko lenu mase gbagbe Oro Olorun ti o ti gbo ti o gba ninu ijo wa Adupe lowo Olorun...
 | Solo: E malo sinu ayo ayeraye. 
 | All: rep
-| Solo: ko ko ni ku mo loroo loruko Jesu o
-| Solo: O ma ni foju sokun aya Amin be nikorio
-| Solo: Gbogbo idawole yin ko mayori sirere.
+| Solo: Oko ko ni ku mo o lori o loruko Jesu o
+| Solo: O ma ni foju sokun aya. Amin be nikori o
+| Solo: Gbogbo idawole yin ko mayori si rere.
 :::
 
