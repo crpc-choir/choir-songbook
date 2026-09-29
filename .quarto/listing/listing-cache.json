@@ -12,6 +12,13 @@
     "topics\\communion.qmd": [
       "../songs/S005-break-thou-the-bread-of-life.qmd"
     ],
+    "topics\\holy-spirit.qmd": [
+      "../songs/S008-eni-irapada.qmd",
+      "../songs/S009-our-father.qmd",
+      "../songs/S010-ise-emi-mimo.qmd",
+      "../songs/S011-wa-emi-mimo.qmd",
+      "../songs/S012-emi-mimo-so-fun-mi-pe.qmd"
+    ],
     "topics\\praise.qmd": [
       "../songs/S002-holy-holy-holy.qmd",
       "../songs/S003-blessed-assurance.qmd",
@@ -27,6 +34,12 @@
     "topics\\thanksgiving.qmd": [
       "../songs/S003-blessed-assurance.qmd",
       "../songs/S004-great-is-thy-faithfulness.qmd"
+    ],
+    "topics\\wedding.qmd": [
+      "../songs/S013-aba-o-yo.qmd",
+      "../songs/S014-ke-re-o.qmd",
+      "../songs/S015-eku-ori-ire.qmd",
+      "../songs/S016-eto-olorun-ni.qmd"
     ],
     "topics\\worship.qmd": [
       "../songs/S001-amazing-grace.qmd",

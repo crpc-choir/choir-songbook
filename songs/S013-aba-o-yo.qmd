@@ -1,0 +1,20 @@
+---
+title: "Aba o yo"
+categories: ["Wedding"]
+song_id: "S013"
+song_language: "Yoruba"
+song_type: "Special Number"
+key: "F"
+composer: "Choir"
+folder: "Folder 6"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+*Lyrics not yet entered.*
+:::
+

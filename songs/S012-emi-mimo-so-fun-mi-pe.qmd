@@ -1,0 +1,20 @@
+---
+title: "Emi Mimo So fun mi pe"
+categories: ["Holy Spirit"]
+song_id: "S012"
+song_language: "Yoruba"
+song_type: "Special Number"
+key: "F"
+composer: "Choir"
+folder: "Folder 5"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+*Lyrics not yet entered.*
+:::
+

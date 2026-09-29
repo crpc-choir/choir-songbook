@@ -1,45 +1,17 @@
 [
   {
-    "listing": "/topics/thanksgiving.html",
+    "listing": "/topics/wedding.html",
     "items": [
-      "/songs/S003-blessed-assurance.html",
-      "/songs/S004-great-is-thy-faithfulness.html"
+      "/songs/S013-aba-o-yo.html",
+      "/songs/S015-eku-ori-ire.html",
+      "/songs/S016-eto-olorun-ni.html",
+      "/songs/S014-ke-re-o.html"
     ]
   },
   {
-    "listing": "/topics/prayer.html",
+    "listing": "/topics/salvation-and-altar-call.html",
     "items": [
       "/songs/S001-amazing-grace.html"
-    ]
-  },
-  {
-    "listing": "/topics/christmas.html",
-    "items": [
-      "/songs/S006-joy-to-the-world.html"
-    ]
-  },
-  {
-    "listing": "/services.html",
-    "items": [
-      "/services/2026-10-04-sunday-service.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/songs/S001-amazing-grace.html",
-      "/songs/S003-blessed-assurance.html",
-      "/songs/S005-break-thou-the-bread-of-life.html",
-      "/songs/S004-great-is-thy-faithfulness.html",
-      "/songs/S002-holy-holy-holy.html",
-      "/songs/S006-joy-to-the-world.html",
-      "/songs/S007-oba-ni-jesu.html"
-    ]
-  },
-  {
-    "listing": "/topics/communion.html",
-    "items": [
-      "/songs/S005-break-thou-the-bread-of-life.html"
     ]
   },
   {
@@ -52,9 +24,65 @@
     ]
   },
   {
-    "listing": "/topics/salvation-and-altar-call.html",
+    "listing": "/topics/holy-spirit.html",
+    "items": [
+      "/songs/S012-emi-mimo-so-fun-mi-pe.html",
+      "/songs/S008-eni-irapada.html",
+      "/songs/S010-ise-emi-mimo.html",
+      "/songs/S009-our-father.html",
+      "/songs/S011-wa-emi-mimo.html"
+    ]
+  },
+  {
+    "listing": "/topics/christmas.html",
+    "items": [
+      "/songs/S006-joy-to-the-world.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/songs/S013-aba-o-yo.html",
+      "/songs/S001-amazing-grace.html",
+      "/songs/S003-blessed-assurance.html",
+      "/songs/S005-break-thou-the-bread-of-life.html",
+      "/songs/S015-eku-ori-ire.html",
+      "/songs/S012-emi-mimo-so-fun-mi-pe.html",
+      "/songs/S008-eni-irapada.html",
+      "/songs/S016-eto-olorun-ni.html",
+      "/songs/S004-great-is-thy-faithfulness.html",
+      "/songs/S002-holy-holy-holy.html",
+      "/songs/S010-ise-emi-mimo.html",
+      "/songs/S006-joy-to-the-world.html",
+      "/songs/S014-ke-re-o.html",
+      "/songs/S007-oba-ni-jesu.html",
+      "/songs/S009-our-father.html",
+      "/songs/S011-wa-emi-mimo.html"
+    ]
+  },
+  {
+    "listing": "/services.html",
+    "items": [
+      "/services/2026-10-04-sunday-service.html"
+    ]
+  },
+  {
+    "listing": "/topics/communion.html",
+    "items": [
+      "/songs/S005-break-thou-the-bread-of-life.html"
+    ]
+  },
+  {
+    "listing": "/topics/prayer.html",
     "items": [
       "/songs/S001-amazing-grace.html"
+    ]
+  },
+  {
+    "listing": "/topics/thanksgiving.html",
+    "items": [
+      "/songs/S003-blessed-assurance.html",
+      "/songs/S004-great-is-thy-faithfulness.html"
     ]
   },
   {

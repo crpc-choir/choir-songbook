@@ -1,0 +1,19 @@
+---
+title: "Wedding"
+listing:
+  contents:
+    - ../songs/S013-aba-o-yo.qmd
+    - ../songs/S014-ke-re-o.qmd
+    - ../songs/S015-eku-ori-ire.qmd
+    - ../songs/S016-eto-olorun-ni.qmd
+  type: table
+  sort: "title"
+  filter-ui: true
+  fields: [title, song_language, song_type, key, folder]
+  field-display-names:
+    title: "Song"
+    song_language: "Language"
+    song_type: "Type"
+    key: "Key"
+    folder: "Vestry folder"
+---

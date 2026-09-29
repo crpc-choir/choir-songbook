@@ -1,0 +1,20 @@
+---
+title: "Holy Spirit"
+listing:
+  contents:
+    - ../songs/S008-eni-irapada.qmd
+    - ../songs/S009-our-father.qmd
+    - ../songs/S010-ise-emi-mimo.qmd
+    - ../songs/S011-wa-emi-mimo.qmd
+    - ../songs/S012-emi-mimo-so-fun-mi-pe.qmd
+  type: table
+  sort: "title"
+  filter-ui: true
+  fields: [title, song_language, song_type, key, folder]
+  field-display-names:
+    title: "Song"
+    song_language: "Language"
+    song_type: "Type"
+    key: "Key"
+    folder: "Vestry folder"
+---

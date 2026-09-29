@@ -4,8 +4,10 @@ title: "Topics"
 
 - [Christmas](christmas.qmd) (1)
 - [Communion](communion.qmd) (1)
+- [Holy Spirit](holy-spirit.qmd) (5)
 - [Praise](praise.qmd) (4)
 - [Prayer](prayer.qmd) (1)
 - [Salvation and Altar Call](salvation-and-altar-call.qmd) (1)
 - [Thanksgiving](thanksgiving.qmd) (2)
+- [Wedding](wedding.qmd) (4)
 - [Worship](worship.qmd) (3)

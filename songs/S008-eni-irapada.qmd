@@ -1,0 +1,50 @@
+---
+title: "Eni Irapada"
+categories: ["Holy Spirit"]
+song_id: "S008"
+song_language: "Yoruba"
+song_type: "Special Number"
+key: "F"
+composer: "Choir"
+folder: "Folder 5"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+### Verse 1
+| Hymn; Gbat'agbara Olorun de
+| Gba temi mimo de ti mo gba s'aye mi l'ese ti  dagbere e e
+| Chr: T'ori mo da tun bi Eni lrapada
+
+### Verse 2
+| Emi ti pentecosti ela ahon bi 'na mo f'ede    miran soro 
+
+### Verse 3
+| Ileri ti baba ni yi ma ba mi gbe tokanmi po ngbe fun 
+
+### Verse 4
+| Gbat emi mimo de Emi otito na taraya kolegba
+
+### Verse 5
+| Emi oye tide ti nkoni lohun gbogbo Moda keko motoo
+
+### Verse 6
+| Imole ma ti de okunkun dagbere mo wa mo otito
+
+### Verse 7
+| Emi Re jeri pe Omo Olorun ni mi ak'oruko mi   sorun
+
+### Verse 8
+| Igboya ma ti de Emi agbara Olorun mo fi gboya  soro re
+
+### Verse 9
+| Alafia ti de okan mi ri Simi gba temi balemi
+
+### Verse 10
+| Olutunnu tide tori ojo idande mo ni kora     janu.
+:::
+
