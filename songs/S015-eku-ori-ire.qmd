@@ -15,6 +15,25 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 :::
 
 ::: {.lyrics}
-*Lyrics not yet entered.*
+### Prelude
+| E ku orire o toko ti yawo. Aba yin yo ayo yin adale l'oruko Jesu oluwa. Igbeyawo yin ko ni tuka. Esu ko ni ba ayo yin je o, ibanuje ko ni wo Ile yin oko ati lyawo ete eti yin sile ki e gbo ohun ti a fe so fun yin. 
+| Iyawo teriba foko Iwo oko feran aya re eko ile yin sori Kristi apata ti ko ye lailai e ma gbadura papo loruko Jesu oluwa iji lgbeyawo ko ni bori yin. 
+| Gbogbo eniyan e ku imura sile fun lgbeyawo odo aguntan ti yio waye laipe nje oti also igbeyawo Tete gba Jesu loni oo ola le peju. Aye si mbe nile odo aguntan... 
+| Solo: Aba yin yo/2x 
+| All: Adupe lowo Olorun. Lowo Oluwa to fomo sojuwa
+
+### Verse 1
+| Adupe lori oko ati iyawo to mu ko niko l'alafia gbogbo ebi ore lonba yin yo, adupe lowo Olorun lowo oluwa poni soju wa.
+
+### Verse 2
+| Lowo oko sike, aya re fowo onje sile lasiko egungun iha re ni makee magee mase rojo aya re febi ife loba ohun gbogbo. 
+
+### Verse 3
+| Iwo iyawo pe lori ekun re foko re ninu adura mase rojo oko re febi adura lolese se onje foko re lasiko gboro soko lenu mase gbagbe Oro Olorun ti o ti gbo ti o gba ninu ijo wa Adupe lowo Olorun...
+| Solo: E malo sinu ayo ayeraye. 
+| All: rep
+| Solo: ko ko ni ku mo loroo loruko Jesu o
+| Solo: O ma ni foju sokun aya Amin be nikorio
+| Solo: Gbogbo idawole yin ko mayori sirere.
 :::
 

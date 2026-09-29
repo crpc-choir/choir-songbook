@@ -15,6 +15,24 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 :::
 
 ::: {.lyrics}
-*Lyrics not yet entered.*
+| Solo: kekekekeke kere ooo
+| All: kekule ko gbo ko lo ro fun toko/2x oo
+
+| (Wipe kini) wipe...ti fomo kunrin kan wipe...ti fe...Abeleja yanja ema ma  dan wo mo girigiri leyin ogiri ko si mo koro koro labe odan iyen to dopin oo (nitoripe) loni...ti doloko. Loni ni...ti fe mokunrin kan. Loni mi...ti fe (rep 4 the groom).
+
+| Solo: Oko eyi to o wo yi wumi
+| All: Awaye l'oloko wa mioo Jesu yio ba o wa waye. 
+| Solo: Oye MRS yi lowu mi yeye
+| Solo: Ade ori reko ni si bo l'oruko Jesu
+| Solo: E o ni yagan ohun rere wase ru e fomo
+| Solo: Emi gigun Owo.alafia Leo fi saye
+| Solo: Efi ife ba ara yi gbe ife lolorun
+| Solo: Igbeyawo todo-aguntan ao jowa ni be
+| Lowelowe lan lulu agidigbo ologbon lonjo omoran lolemaaa...gbo "akoko loroo loni gbayioo apegan oko loni ra buba"(bt) Boju bati yeju ohun ogbodo ye... 
+| Solo: Ma feo mabola fun
+| All: Mafi gbogbo okan re maa fe mabola fun.
+| Solo: Toju Oluwa...Olorun afun nke Olorun a fun o ke.
+| Solo: Ile yin oni tuka eo ba rayin kale. 
+| Solo: Mase gbagbe adehun ife rantioo
 :::
 
