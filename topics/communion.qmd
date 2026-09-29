@@ -3,6 +3,10 @@ title: "Communion"
 listing:
   contents:
     - ../songs/S005-break-thou-the-bread-of-life.qmd
+    - ../songs/S017-kilo-le-wese-mi-nu.qmd
+    - ../songs/S018-otito-jesu-lo-fun-wenu-mo.qmd
+    - ../songs/S019-mo-f-aye-ati-f-emi-fun.qmd
+    - ../songs/S020-ojo-nla-lojo-ti-mo-yan.qmd
   type: table
   sort: "title"
   filter-ui: true

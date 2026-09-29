@@ -3,7 +3,7 @@ title: "Topics"
 ---
 
 - [Christmas](christmas.qmd) (1)
-- [Communion](communion.qmd) (1)
+- [Communion](communion.qmd) (5)
 - [Holy Spirit](holy-spirit.qmd) (5)
 - [Praise](praise.qmd) (4)
 - [Prayer](prayer.qmd) (1)

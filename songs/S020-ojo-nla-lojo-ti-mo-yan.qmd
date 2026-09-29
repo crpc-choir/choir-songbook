@@ -1,0 +1,20 @@
+---
+title: "Ojo nla lojo ti mo yan"
+categories: ["Communion"]
+song_id: "S020"
+song_language: "Yoruba"
+song_type: "Hymn"
+key: ""
+composer: "P. Doddridge"
+folder: "Folder 3"
+audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+*Lyrics not yet entered.*
+:::
+
