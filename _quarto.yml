@@ -31,8 +31,7 @@ website:
       - href: how-to.qmd
         text: Adding songs
   page-footer:
-    center: "For internal use by the choir."
-
+    center: "© 2026 CRPC Choir · Created Sept, 2026 · For Internal Use Only · Developed by SoftData Consult"
 format:
   html:
     theme: cosmo
