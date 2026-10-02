@@ -16,6 +16,40 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 :::
 
 ::: {.lyrics}
-*Lyrics not yet entered.*
+### Verse 1
+| Blessed assurance, Jesus is mine!
+| O what a foretaste of glory divine!
+| Heir of salvation, purchase of God,
+| Born of His Spirit—washed in His blood.
+
+### Refrain
+| This is my story!
+| This is my song!
+| Praising my Savior
+| All the day long!
+
+### Verse 2
+| Perfect submission, perfect delight!
+| Visions of rapture now burst on my sight!
+| Angels descending, bring from above,
+
+### Refrain
+| This is my story!
+| This is my song!
+| Praising my Savior
+| All the day long!
+| Echoes of mercy, whispers of love.
+
+### Verse 3
+| Perfect salvation—all is at rest!
+| I in my Savior am happy and blessed!
+| Watching and waiting, looking above,
+| Filled with His goodness—lost in His love!
+
+### Refrain
+| This is my story!
+| This is my song!
+| Praising my Savior
+| All the day long!
 :::
 
