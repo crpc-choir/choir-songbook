@@ -5,7 +5,7 @@ song_id: "S006"
 song_language: "Yoruba"
 song_type: "Special Number"
 key: "F"
-composer: "CACSA Unilorin"
+composer: "Unknown"
 folder: "Folder 1"
 audio: ""
 has_audio: ""
@@ -16,28 +16,70 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 :::
 
 ::: {.lyrics}
-### Verse 1
-| Joy to the world; the Lord is come;
-| Let Earth receive her King;
-| Let ev'ry heart prepare him room,
-| And heav'n and nature sing/3x
+### Chorus
+| Oba ni o, oba ni Jesu o
+| Oba ni o, oba ni se
+| Oun fun ni layo, oun munu eni dun
+| Oba ni Jesu, egbeega. /2ce
 
-### Verse 2
-| Joy to the Earth, the Savior reigns;
-| Our mortal songs employ,
-| While fields and floods, rocks, hills and plains,
-| Repeat the sounding joy/3x
+### Duet 1
+| Oun fun ni layo, oun dani lare
+| Oun gbeniga oun gbeni nija
+| Wa kalo juba, Olorun iyanu
+| Oba ni Jesu, egbeega
 
-### Verse 3
-| No more let sins and sorrows grow,
-| Nor thorns infest the ground;
-| He comes to make his blessings flow
-| Far as the curse is found/3x 
+### Duet 2
+| Oun dani lare, oun segun fun ni
+| Oun gbani sile lowo aiye o
+| Ewa wo Jesu oonise iyanu
+| Oba ni Jesu egbeega
 
-### Verse 4
-| He rules the world with truth and grace,
-| And makes the nations prove
-| The glories of his righteousness,
-| And wonders of his love.
+### Chorus
+| Oba ni o, oba ni Jesu o
+| Oba ni o, oba ni se
+| Oun fun ni layo, oun munu eni dun
+| Oba ni Jesu, egbeega. /2ce
+
+### Duet 3
+| Ato bani se ni, ato gbara le ni
+| Ato farati ni, ohun lalabora
+| Ewa wo Jesu, aadani magbagbe
+| Oba ni Jesu, egbeega.
+
+### Chorus
+| Oba ni o, oba ni Jesu o
+| Oba ni o, oba ni se
+| Oun fun ni layo, oun munu eni dun
+| Oba ni Jesu, egbeega. /2ce
+
+### Duet 4
+| Egbeega o, egbeega o
+| Egbeega o olagbara pupo
+| Oruko Jesu, oun dani nide
+| Oba ni Jesu egbeega
+
+### Chorus
+| Oba ni o, oba ni Jesu o
+| Oba ni o, oba ni se
+| Oun fun ni layo, oun munu eni dun
+| Oba ni Jesu, egbeega. /2ce
+
+### Vocal 1
+| Oba ni
+
+### Chorus
+| Oba ni o, oba ni Jesu o
+| Oba ni o, oba ni se
+| Oun fun ni layo, oun munu eni dun
+| Oba ni Jesu, egbeega. /2ce
+
+### Vocal 2
+| Oba ni
+
+### Chorus
+| Oba ni o, oba ni Jesu o
+| Oba ni o, oba ni se
+| Oun fun ni layo, oun munu eni dun
+| Oba ni Jesu, egbeega. /2ce
 :::
 
