@@ -1,11 +1,11 @@
 ---
-title: "Otito Jesu lo fun wenu mo"
+title: "Ojo nla lojo ti mo yan"
 categories: ["Communion"]
-song_id: "S018"
+song_id: "S019"
 song_language: "Yoruba"
 song_type: "Hymn"
-key: ""
-composer: "tr. A Faith"
+key: "D"
+composer: "P. Doddridge"
 folder: "Folder 3"
 audio: ""
 ---

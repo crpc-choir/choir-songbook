@@ -2,19 +2,19 @@
 title: "Communion"
 listing:
   contents:
-    - ../songs/S005-break-thou-the-bread-of-life.qmd
-    - ../songs/S017-kilo-le-wese-mi-nu.qmd
-    - ../songs/S018-otito-jesu-lo-fun-wenu-mo.qmd
-    - ../songs/S019-mo-f-aye-ati-f-emi-fun.qmd
-    - ../songs/S020-ojo-nla-lojo-ti-mo-yan.qmd
+    - ../songs/S015-kilo-le-wese-mi-nu.qmd
+    - ../songs/S016-otito-jesu-lo-fun-wenu-mo.qmd
+    - ../songs/S017-mo-faye-ati-f-emi-fun.qmd
+    - ../songs/S018-ojo-nla-l-ojo-ti-mo-yan.qmd
   type: table
   sort: "title"
   filter-ui: true
-  fields: [title, song_language, song_type, key, folder]
+  fields: [title, song_language, song_type, key, folder, has_audio]
   field-display-names:
     title: "Song"
     song_language: "Language"
     song_type: "Type"
     key: "Key"
     folder: "Vestry folder"
+    has_audio: "Audio"
 ---

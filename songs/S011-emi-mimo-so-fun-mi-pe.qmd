@@ -1,13 +1,14 @@
 ---
 title: "Emi Mimo So fun mi pe"
 categories: ["Holy Spirit"]
-song_id: "S012"
+song_id: "S011"
 song_language: "Yoruba"
 song_type: "Special Number"
 key: "F"
 composer: "Choir"
 folder: "Folder 5"
 audio: ""
+has_audio: ""
 ---
 
 ::: {.song-info}

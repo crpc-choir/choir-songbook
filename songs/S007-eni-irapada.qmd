@@ -1,13 +1,14 @@
 ---
 title: "Eni Irapada"
 categories: ["Holy Spirit"]
-song_id: "S008"
+song_id: "S007"
 song_language: "Yoruba"
 song_type: "Special Number"
 key: "F"
 composer: "Choir"
 folder: "Folder 5"
 audio: ""
+has_audio: ""
 ---
 
 ::: {.song-info}
@@ -21,7 +22,7 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 | Chr: T'ori mo da tun bi Eni lrapada
 
 ### Verse 2
-| Emi ti pentecosti ela ahon bi 'na mo f'ede    miran soro 
+| Emi ti pentikosti ela ahon bi 'na mo f'ede    miran soro 
 
 ### Verse 3
 | Ileri ti baba ni yi ma ba mi gbe tokanmi po ngbe fun 

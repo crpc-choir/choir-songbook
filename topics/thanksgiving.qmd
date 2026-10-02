@@ -7,11 +7,12 @@ listing:
   type: table
   sort: "title"
   filter-ui: true
-  fields: [title, song_language, song_type, key, folder]
+  fields: [title, song_language, song_type, key, folder, has_audio]
   field-display-names:
     title: "Song"
     song_language: "Language"
     song_type: "Type"
     key: "Key"
     folder: "Vestry folder"
+    has_audio: "Audio"
 ---

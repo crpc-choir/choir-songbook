@@ -1,0 +1,45 @@
+---
+title: "Ke re o"
+categories: ["Wedding"]
+song_id: "S013"
+song_language: "Yoruba"
+song_type: "Special Number"
+key: "F"
+composer: "Choir"
+folder: "Folder 6"
+audio: ""
+has_audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+| Solo: kekekekeke kereooo
+| All: kekule ko gbo ko lo ro fun toko/2 oo
+
+| (wipekini) wipe... ti fomo kunrin kan wipe...ti fe...Abeleja yanja emama  dan wo mo kirikiri leyin ogiri ko si mo korokoro labe odan iyen to dopinoo 
+(nitoripe) loni...ti doloko. loni ni...tifemo kunrin kan. Loni mi...ti fe...(rep 4 the groom).
+
+| Solo: Oko eyi to o wo yi wumi
+| All: Awaye loloko wamioo Jesu yio ba o wa waye. 
+
+| Solo: oye MRS yi lowu mi yeye
+| Solo: Ade ori reko ni si bo loruko Jesu
+| Solo: Eo ni yagan ohun rere wase ru e fomo
+| Solo: Emi gigun Owo.alafia Leo fi saye
+| Solo: Efi ife ba ara yi gbe ife lolorun
+| Solo: Igbeyawo todo-aguntan ao jowa ni be
+
+| Lowelowe lan lulu agidigbo ologbon lonjo omoranlolemaaa...gbo "akoko loroo loni gbayioo apegan oko loni rabuba"(bt) Boju batiyeju ohun ogbodo ye... 
+
+| Solo: mafeo mabola fun
+| All: Mafi gbogbo okan re maafe mabola fun.
+
+| Solo: Toju Oluwa...olorun afunnke Olorun a fun o ke.
+| Solo: Ile yin oni tuka eo ba rayin kale. 
+| Solo: Mase gbagbe adehun ife rantioo
+:::
+
+

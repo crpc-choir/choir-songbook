@@ -8,6 +8,7 @@ key: "D"
 composer: "Reginald Heber"
 folder: "Folder 1"
 audio: ""
+has_audio: ""
 ---
 
 ::: {.song-info}

@@ -1,0 +1,49 @@
+---
+title: "Kilo le wese mi nu"
+categories: ["Communion"]
+song_id: "S015"
+song_language: "Yoruba"
+song_type: "Hymn"
+key: "G"
+composer: "Robert Lowry"
+folder: "Folder 3"
+audio: ""
+has_audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+### Verse 1
+| Kil’ o le w’ ese mi nu?
+| Ko si, lehin eje Jesu;
+| Kil’ o tun le wo mi san?
+| Ko si, lehin eje Jesu.
+
+### Chorus
+| A! eje ‘yebiye,
+| T’ o mu mi fun bi sno,
+| Ko s’ isun miran mo,
+| Ko si lehin eje Jesu.
+
+### Verse 2
+| Fun ‘wenumo mi, nko ri,
+| Nkan mi, lehin eje Jesu;
+| Ohun ti mo gbekele
+| Fun ‘dariji, l’ eje Jesu.
+
+### Verse 3
+| Etutu f’ ese ko si,
+| Ko si lehin eje Jesu;
+| Ise rere kan ko si,
+| Ko si, lehin eje Jesu.
+
+### Verse 4
+| Gbogbo igbekele mi,
+| Ireti mi l’ eje Jesu;
+| Gbogbo ododo mi ni,
+| Eje kiki eje Jesu.
+:::
+

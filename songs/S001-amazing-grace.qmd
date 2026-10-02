@@ -8,6 +8,7 @@ key: "G"
 composer: "John Newton"
 folder: "Folder 1"
 audio: ""
+has_audio: ""
 ---
 
 ::: {.song-info}

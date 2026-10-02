@@ -7,27 +7,26 @@
       "services"
     ],
     "topics\\christmas.qmd": [
-      "../songs/S006-joy-to-the-world.qmd"
+      "../songs/S005-joy-to-the-world.qmd"
     ],
     "topics\\communion.qmd": [
-      "../songs/S005-break-thou-the-bread-of-life.qmd",
-      "../songs/S017-kilo-le-wese-mi-nu.qmd",
-      "../songs/S018-otito-jesu-lo-fun-wenu-mo.qmd",
-      "../songs/S019-mo-f-aye-ati-f-emi-fun.qmd",
-      "../songs/S020-ojo-nla-lojo-ti-mo-yan.qmd"
+      "../songs/S015-kilo-le-wese-mi-nu.qmd",
+      "../songs/S016-otito-jesu-lo-fun-wenu-mo.qmd",
+      "../songs/S017-mo-faye-ati-f-emi-fun.qmd",
+      "../songs/S018-ojo-nla-l-ojo-ti-mo-yan.qmd"
     ],
     "topics\\holy-spirit.qmd": [
-      "../songs/S008-eni-irapada.qmd",
-      "../songs/S009-our-father.qmd",
-      "../songs/S010-ise-emi-mimo.qmd",
-      "../songs/S011-wa-emi-mimo.qmd",
-      "../songs/S012-emi-mimo-so-fun-mi-pe.qmd"
+      "../songs/S007-eni-irapada.qmd",
+      "../songs/S008-our-father.qmd",
+      "../songs/S009-ise-emi-mimo.qmd",
+      "../songs/S010-wa-emi-mimo.qmd",
+      "../songs/S011-emi-mimo-so-fun-mi-pe.qmd"
     ],
     "topics\\praise.qmd": [
       "../songs/S002-holy-holy-holy.qmd",
       "../songs/S003-blessed-assurance.qmd",
-      "../songs/S006-joy-to-the-world.qmd",
-      "../songs/S007-oba-ni-jesu.qmd"
+      "../songs/S005-joy-to-the-world.qmd",
+      "../songs/S006-oba-ni-jesu.qmd"
     ],
     "topics\\prayer.qmd": [
       "../songs/S001-amazing-grace.qmd"
@@ -40,15 +39,14 @@
       "../songs/S004-great-is-thy-faithfulness.qmd"
     ],
     "topics\\wedding.qmd": [
-      "../songs/S013-aba-o-yo.qmd",
-      "../songs/S014-ke-re-o.qmd",
-      "../songs/S015-eku-ori-ire.qmd",
-      "../songs/S016-eto-olorun-ni.qmd"
+      "../songs/S012-aba-o-yo.qmd",
+      "../songs/S013-ke-re-o.qmd",
+      "../songs/S014-eku-ori-ire.qmd"
     ],
     "topics\\worship.qmd": [
       "../songs/S001-amazing-grace.qmd",
       "../songs/S002-holy-holy-holy.qmd",
-      "../songs/S007-oba-ni-jesu.qmd"
+      "../songs/S006-oba-ni-jesu.qmd"
     ]
   }
 }

@@ -1,0 +1,67 @@
+---
+title: "Otito Jesu lo fun wenu mo"
+categories: ["Communion"]
+song_id: "S016"
+song_language: "Yoruba"
+song_type: "Hymn"
+key: "D"
+composer: "Elisha Albright Hoffman"
+folder: "Folder 3"
+audio: ""
+has_audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+### Verse 1
+| O ti to Jesu f’ agbara ‘wenumo?
+| A we o nin’ ej Odagutan?
+| Iwo ha ngbekele ore-ofe Re?
+| A we o nin’ ej Odagutan?
+
+### Refrain
+| A we o?
+| Nin eje
+| Nin’ ej’ Odagutan fun okan
+| Aso re ha funfun
+| O si mo laulau?
+| A we o nin’ ej’ Odagutan?
+
+### Verse 2
+| O mba Olugbala rin lojojumo?
+| A we o nin’ ej’ Odagutan?
+| O simi le Eniti a kan mo ‘gi?
+| A we o nin’ ej’ Odagutan?
+
+### Refrain
+| A we o?
+| Nin eje
+| Nin’ ej’ Odagutan fun okan
+| Aso re ha funfun
+| O si mo laulau?
+| A we o nin’ ej’ Odagutan?
+
+### Verse 3
+| Aso re funfun lati pad’ Oluwa?
+| O mo lau nin’ ej’ Odagutan?
+| Okan re mura fun ‘le didan loke?
+| K’ a we o nin ej’ Odagutan?
+
+### Refrain
+| A we o?
+| Nin eje
+| Nin’ ej’ Odagutan fun okan
+| Aso re ha funfun
+| O si mo laulau?
+| A we o nin’ ej’ Odagutan?
+
+### Verse 4
+| Bo ewu eri-ese si apakan,
+| K'a we o nin' eje Od'agutan?
+| Isun kan san fun gbogbo okan aimo
+| Jo lo we nin' eje Od'agutan.
+:::
+

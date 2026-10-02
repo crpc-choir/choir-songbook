@@ -2,18 +2,18 @@
 title: "Wedding"
 listing:
   contents:
-    - ../songs/S013-aba-o-yo.qmd
-    - ../songs/S014-ke-re-o.qmd
-    - ../songs/S015-eku-ori-ire.qmd
-    - ../songs/S016-eto-olorun-ni.qmd
+    - ../songs/S012-aba-o-yo.qmd
+    - ../songs/S013-ke-re-o.qmd
+    - ../songs/S014-eku-ori-ire.qmd
   type: table
   sort: "title"
   filter-ui: true
-  fields: [title, song_language, song_type, key, folder]
+  fields: [title, song_language, song_type, key, folder, has_audio]
   field-display-names:
     title: "Song"
     song_language: "Language"
     song_type: "Type"
     key: "Key"
     folder: "Vestry folder"
+    has_audio: "Audio"
 ---

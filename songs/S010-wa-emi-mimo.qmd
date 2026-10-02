@@ -1,0 +1,33 @@
+---
+title: "Wa Emi Mimo"
+categories: ["Holy Spirit"]
+song_id: "S010"
+song_language: "Yoruba"
+song_type: "Special Number"
+key: "F"
+composer: "Choir"
+folder: "Folder 5"
+audio: ""
+has_audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+### Chorus
+Chr: Wa Emimimo jowo wagbe wawo fun walagbara Emimimo/fun walagbara emi
+
+### Verse 1
+| Emimimo gbe wawo gbe wawo baba/2 ninu orinwa o baba dakun tunide. kojaide  niunorin wao baba jekarianu gba Emimimo (gbe wawo)2 baba o atide.
+
+### Verse 2
+| Bina bawole okunkun aparada Emi oruno wole aferio kotunide kojaide kowawo alaisan san niti pentecost ti lojosi lyeniyaraoke. Emimimo ( gbe wawo) lonio baba
+
+### Verse 3
+| Olorun aye-agbara lawayi ijoba orunda fagbarawo alagbara lole gbaa femi Orun bewawo kaledalagbara ninure
+
+| Hymn: Gbat'agbara Olorun de...
+:::
+

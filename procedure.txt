@@ -13,6 +13,6 @@ quarto preview
 git pull
 quarto render
 git add .
-git commit -m "update on lyrics"
+git commit -m "Update footer"
 git push
 

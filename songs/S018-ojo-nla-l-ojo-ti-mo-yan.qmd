@@ -1,0 +1,89 @@
+---
+title: "Ojo nla l'ojo ti mo yan"
+categories: ["Communion"]
+song_id: "S018"
+song_language: "Yoruba"
+song_type: "Hymn"
+key: "D"
+composer: "Philip Doddridge"
+folder: "Folder 3"
+audio: ""
+has_audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+### Verse 1
+| Ojo nla l’ojo ti mo yan
+| Olugbala l’Olorun mi;
+| O ye ki okan mi ma yo,
+| K’o si ro ihin na ka ‘le.
+
+### Chorus
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu
+| O ko mi ki nma gbadura
+| Ki nma sora ki nsi ma yo
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu.
+
+### Verse 2
+| Ise igbala pari na,
+| Mo di t’Oluwa mi loni;
+| On l’o pe mi ti mo si je,
+| Mo f’ayo jipe mimo na.
+
+### Chorus
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu
+| O ko mi ki nma gbadura
+| Ki nma sora ki nsi ma yo
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu.
+
+### Verse 3
+| Eje mimo yi ni mo je
+| F’enit ’o ye lati feran;
+| Je k’orin didun kun ’le Re,
+| Nigba mo ba nlo sin nibe. 
+
+### Chorus
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu
+| O ko mi ki nma gbadura
+| Ki nma sora ki nsi ma yo
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu.
+
+### Verse 4
+| Simi, aiduro okan mi,
+| Simi le Jesu Oluwa;
+| Tani je wipe aiye dun
+| Ju odo awon angeli? 
+
+### Chorus
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu
+| O ko mi ki nma gbadura
+| Ki nma sora ki nsi ma yo
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu.
+
+### Verse 5
+| 'Wo orun t'o ngbo eje mi;
+| Y'o ma tun gbo Eje lojojumo,
+| Tit' ojo t'emi mi y'o pin 
+| Ni un o ma m'eje mi na se. 
+
+### Chorus
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu
+| O ko mi ki nma gbadura
+| Ki nma sora ki nsi ma yo
+| Ojo nla l’ojo na!
+| Ti Jesu we ese mi nu.
+:::
+

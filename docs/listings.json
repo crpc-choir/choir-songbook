@@ -2,10 +2,9 @@
   {
     "listing": "/topics/wedding.html",
     "items": [
-      "/songs/S013-aba-o-yo.html",
-      "/songs/S015-eku-ori-ire.html",
-      "/songs/S016-eto-olorun-ni.html",
-      "/songs/S014-ke-re-o.html"
+      "/songs/S012-aba-o-yo.html",
+      "/songs/S014-eku-ori-ire.html",
+      "/songs/S013-ke-re-o.html"
     ]
   },
   {
@@ -19,49 +18,47 @@
     "items": [
       "/songs/S003-blessed-assurance.html",
       "/songs/S002-holy-holy-holy.html",
-      "/songs/S006-joy-to-the-world.html",
-      "/songs/S007-oba-ni-jesu.html"
+      "/songs/S005-joy-to-the-world.html",
+      "/songs/S006-oba-ni-jesu.html"
     ]
   },
   {
     "listing": "/topics/holy-spirit.html",
     "items": [
-      "/songs/S012-emi-mimo-so-fun-mi-pe.html",
-      "/songs/S008-eni-irapada.html",
-      "/songs/S010-ise-emi-mimo.html",
-      "/songs/S009-our-father.html",
-      "/songs/S011-wa-emi-mimo.html"
+      "/songs/S011-emi-mimo-so-fun-mi-pe.html",
+      "/songs/S007-eni-irapada.html",
+      "/songs/S009-ise-emi-mimo.html",
+      "/songs/S008-our-father.html",
+      "/songs/S010-wa-emi-mimo.html"
     ]
   },
   {
     "listing": "/topics/christmas.html",
     "items": [
-      "/songs/S006-joy-to-the-world.html"
+      "/songs/S005-joy-to-the-world.html"
     ]
   },
   {
     "listing": "/index.html",
     "items": [
-      "/songs/S013-aba-o-yo.html",
+      "/songs/S012-aba-o-yo.html",
       "/songs/S001-amazing-grace.html",
       "/songs/S003-blessed-assurance.html",
-      "/songs/S005-break-thou-the-bread-of-life.html",
-      "/songs/S015-eku-ori-ire.html",
-      "/songs/S012-emi-mimo-so-fun-mi-pe.html",
-      "/songs/S008-eni-irapada.html",
-      "/songs/S016-eto-olorun-ni.html",
+      "/songs/S014-eku-ori-ire.html",
+      "/songs/S011-emi-mimo-so-fun-mi-pe.html",
+      "/songs/S007-eni-irapada.html",
       "/songs/S004-great-is-thy-faithfulness.html",
       "/songs/S002-holy-holy-holy.html",
-      "/songs/S010-ise-emi-mimo.html",
-      "/songs/S006-joy-to-the-world.html",
-      "/songs/S014-ke-re-o.html",
-      "/songs/S017-kilo-le-wese-mi-nu.html",
-      "/songs/S019-mo-f-aye-ati-f-emi-fun.html",
-      "/songs/S007-oba-ni-jesu.html",
-      "/songs/S020-ojo-nla-lojo-ti-mo-yan.html",
-      "/songs/S018-otito-jesu-lo-fun-wenu-mo.html",
-      "/songs/S009-our-father.html",
-      "/songs/S011-wa-emi-mimo.html"
+      "/songs/S009-ise-emi-mimo.html",
+      "/songs/S005-joy-to-the-world.html",
+      "/songs/S013-ke-re-o.html",
+      "/songs/S015-kilo-le-wese-mi-nu.html",
+      "/songs/S017-mo-faye-ati-f-emi-fun.html",
+      "/songs/S006-oba-ni-jesu.html",
+      "/songs/S018-ojo-nla-l-ojo-ti-mo-yan.html",
+      "/songs/S016-otito-jesu-lo-fun-wenu-mo.html",
+      "/songs/S008-our-father.html",
+      "/songs/S010-wa-emi-mimo.html"
     ]
   },
   {
@@ -73,11 +70,10 @@
   {
     "listing": "/topics/communion.html",
     "items": [
-      "/songs/S005-break-thou-the-bread-of-life.html",
-      "/songs/S017-kilo-le-wese-mi-nu.html",
-      "/songs/S019-mo-f-aye-ati-f-emi-fun.html",
-      "/songs/S020-ojo-nla-lojo-ti-mo-yan.html",
-      "/songs/S018-otito-jesu-lo-fun-wenu-mo.html"
+      "/songs/S015-kilo-le-wese-mi-nu.html",
+      "/songs/S017-mo-faye-ati-f-emi-fun.html",
+      "/songs/S018-ojo-nla-l-ojo-ti-mo-yan.html",
+      "/songs/S016-otito-jesu-lo-fun-wenu-mo.html"
     ]
   },
   {
@@ -98,7 +94,7 @@
     "items": [
       "/songs/S001-amazing-grace.html",
       "/songs/S002-holy-holy-holy.html",
-      "/songs/S007-oba-ni-jesu.html"
+      "/songs/S006-oba-ni-jesu.html"
     ]
   }
 ]

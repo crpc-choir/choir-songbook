@@ -1,0 +1,55 @@
+---
+title: "Mo faye ati f'emi fun"
+categories: ["Communion"]
+song_id: "S017"
+song_language: "Yoruba"
+song_type: "Hymn"
+key: "D"
+composer: "Ralph E. Hudson"
+folder: "Folder 3"
+audio: ""
+has_audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+### Verse 1
+| Mo f'aye at'ife mi fun
+| Od'aguntan to ku fun mi;
+| Je ki n le je olotito,
+| Jesu Olorun mi.
+
+### Refrain
+| N o wa f'Eni t'O ku fun mi,
+| Aye mi yo si dun pupo;
+| N o wa f'Eni to ku fun mi,
+| Jesu Olorun mi.
+
+### Verse 2
+| Mo gbagbo pe Iwo n gbani
+| 'Tori 'Wo ku k'emi le la;
+| Emi yo si gbekele O,
+| Jesu Olorun mi.
+
+### Refrain
+| N o wa f'Eni t'O ku fun mi,
+| Aye mi yo si dun pupo;
+| N o wa f'Eni to ku fun mi,
+| Jesu Olorun mi.
+
+### Verse 3
+| Iwo t'O ku ni Kalfari,
+| Lati so mi dominira;
+| Mo yara mi soto fun O,
+| Jesu Olorun mi.
+
+### Refrain
+| N o wa f'Eni t'O ku fun mi,
+| Aye mi yo si dun pupo;
+| N o wa f'Eni to ku fun mi,
+| Jesu Olorun mi.
+:::
+

@@ -1,0 +1,35 @@
+---
+title: "Aba o yo"
+categories: ["Wedding"]
+song_id: "S012"
+song_language: "Yoruba"
+song_type: "Special Number"
+key: "F"
+composer: "Choir"
+folder: "Folder 6"
+audio: ""
+has_audio: ""
+---
+
+::: {.song-info}
+Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {{< meta key >}}  |  Composer: {{< meta composer >}}  |  Vestry folder: {{< meta folder >}}
+:::
+
+::: {.lyrics}
+### Verse 1
+| Solo: Aba o yo loni/2x
+| All: Aba o yo loni o oko olori ire/2x
+
+### Verse 2
+| Saaju oni yi oti kepe Oluwa, pe ko ma salai fun a laya rere ni aye re 
+| Olorun si gbo osi pese aya rere fun o, ope ohun iyin lamu wa o Olorun wa
+
+### Verse 3
+| Solo: Aba o yo loni/2x
+| All: Aba o yo loni o aya olori ire/2x
+
+### Verse 4
+| Saaju oni yi oti kepe Oluwa, pe ko ma salai fun a loko rere ni aye re 
+| Olorun si gbo osi pese oko rere fun o, ope ohun iyin lamu wa o Olorun wa
+:::
+

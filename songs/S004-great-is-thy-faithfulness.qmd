@@ -8,6 +8,7 @@ key: "D"
 composer: "Thomas Chisholm"
 folder: "Folder 2"
 audio: ""
+has_audio: ""
 ---
 
 ::: {.song-info}
