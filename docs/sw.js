@@ -1,6 +1,6 @@
 // CRPC Choir Songbook service worker: keeps the songbook usable offline.
 // The version below is stamped automatically on every `quarto render`.
-const VERSION = "20261003224417";
+const VERSION = "20261003225247";
 const CACHE = "crpc-songbook-" + VERSION;
 const BASE = new URL("./", self.location).href;
 const AUDIO = /\.(mp3|m4a|aac|wav|ogg)$/i;

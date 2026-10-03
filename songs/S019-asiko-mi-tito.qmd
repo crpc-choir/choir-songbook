@@ -16,6 +16,8 @@ Language: {{< meta song_language >}}  |  Type: {{< meta song_type >}}  |  Key: {
 :::
 
 ::: {.lyrics}
-*Lyrics not yet entered.*
+### Chorus
+| Asiko mi tito, mo ti due fun 'yanu
+| Olorun t'o nje 'yanu, wa f'a ye mi se 'yanu/2ce
 :::
 
