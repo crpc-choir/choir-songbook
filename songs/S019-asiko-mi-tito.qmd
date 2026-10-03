@@ -1,13 +1,14 @@
 ---
-title: "Ojo nla lojo ti mo yan"
-categories: ["Communion"]
+title: "Asiko mi tito"
+categories: ["Prayer"]
 song_id: "S019"
 song_language: "Yoruba"
-song_type: "Hymn"
-key: "D"
-composer: "P. Doddridge"
-folder: "Folder 3"
+song_type: "Special Number"
+key: "F"
+composer: "Unknown"
+folder: "Folder 7"
 audio: ""
+has_audio: ""
 ---
 
 ::: {.song-info}

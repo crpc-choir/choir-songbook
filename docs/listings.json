@@ -49,6 +49,7 @@
     "items": [
       "/songs/S012-aba-o-yo.html",
       "/songs/S001-amazing-grace.html",
+      "/songs/S019-asiko-mi-tito.html",
       "/songs/S003-blessed-assurance.html",
       "/songs/S014-eku-ori-ire.html",
       "/songs/S011-emi-mimo-so-fun-mi-pe.html",
@@ -58,7 +59,6 @@
       "/songs/S009-ise-emi-mimo.html",
       "/songs/S005-joy-to-the-world.html",
       "/songs/S013-ke-re-o.html",
-      "/songs/S015-kilo-le-w-ese-mi-nu.html",
       "/songs/S015-kilo-le-wese-mi-nu.html",
       "/songs/S017-mo-faye-ati-f-emi-fun.html",
       "/songs/S006-oba-ni-jesu.html",
@@ -80,7 +80,8 @@
   {
     "listing": "/topics/prayer.html",
     "items": [
-      "/songs/S001-amazing-grace.html"
+      "/songs/S001-amazing-grace.html",
+      "/songs/S019-asiko-mi-tito.html"
     ]
   },
   {

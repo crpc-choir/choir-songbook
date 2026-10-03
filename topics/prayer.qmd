@@ -3,6 +3,7 @@ title: "Prayer"
 listing:
   contents:
     - ../songs/S001-amazing-grace.qmd
+    - ../songs/S019-asiko-mi-tito.qmd
   type: table
   sort: "title"
   filter-ui: true
