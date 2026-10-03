@@ -138,6 +138,21 @@ window.Quarto = {
 <meta property="og:site_name" content="CRPC Choir Songbook">
 <meta property="og:image:height" content="600">
 <meta property="og:image:width" content="600">
+<!-- pwa -->
+<link rel="manifest" href="./manifest.webmanifest">
+<meta name="theme-color" content="#1F3A2E">
+<link rel="apple-touch-icon" href="./icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="CRPC Songbook">
+<style>#pwa-offline{display:none;position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:#1F3A2E;color:#F3F1E8;padding:.45rem 1rem;border-radius:999px;font:500 .9rem system-ui,sans-serif;z-index:2000;box-shadow:0 2px 8px rgba(0,0,0,.25);white-space:nowrap}</style>
+<script>
+if ('serviceWorker' in navigator) addEventListener('load', function () { navigator.serviceWorker.register('./sw.js').catch(function () {}); });
+(function () { function show() { var b = document.getElementById('pwa-offline');
+  if (!b) { b = document.createElement('div'); b.id = 'pwa-offline'; b.setAttribute('role', 'status'); b.textContent = 'Offline: showing saved songs'; document.body.appendChild(b); }
+  b.style.display = navigator.onLine ? 'none' : 'block'; }
+  addEventListener('online', show); addEventListener('offline', show); addEventListener('DOMContentLoaded', show); })();
+</script>
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -189,7 +204,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(18)</span></div><div class="category" data-category="Q2hyaXN0bWFz">Christmas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29tbXVuaW9u">Communion <span class="quarto-category-count">(4)</span></div><div class="category" data-category="SG9seSUyMFNwaXJpdA==">Holy Spirit <span class="quarto-category-count">(5)</span></div><div class="category" data-category="UHJhaXNl">Praise <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UHJheWVy">Prayer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2FsdmF0aW9uJTIwYW5kJTIwQWx0YXIlMjBDYWxs">Salvation and Altar Call <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhhbmtzZ2l2aW5n">Thanksgiving <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V2VkZGluZw==">Wedding <span class="quarto-category-count">(3)</span></div><div class="category" data-category="V29yc2hpcA==">Worship <span class="quarto-category-count">(3)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(19)</span></div><div class="category" data-category="Q2hyaXN0bWFz">Christmas <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29tbXVuaW9u">Communion <span class="quarto-category-count">(5)</span></div><div class="category" data-category="SG9seSUyMFNwaXJpdA==">Holy Spirit <span class="quarto-category-count">(5)</span></div><div class="category" data-category="UHJhaXNl">Praise <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UHJheWVy">Prayer <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2FsdmF0aW9uJTIwYW5kJTIwQWx0YXIlMjBDYWxs">Salvation and Altar Call <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VGhhbmtzZ2l2aW5n">Thanksgiving <span class="quarto-category-count">(2)</span></div><div class="category" data-category="V2VkZGluZw==">Wedding <span class="quarto-category-count">(3)</span></div><div class="category" data-category="V29yc2hpcA==">Worship <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -508,7 +523,29 @@ Vestry folder
 
 </tr>
 
-<tr data-index="11" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790949543463" data-listing-reading-time-sort="1" data-listing-word-count-sort="146" data-listing-title-sort="Kilo le wese mi nu" data-listing-filename-sort="S015-kilo-le-wese-mi-nu.qmd">
+<tr data-index="11" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790951587021" data-listing-reading-time-sort="2" data-listing-word-count-sort="309" data-listing-title-sort="Kilo le w'ese mi nu" data-listing-filename-sort="S015-kilo-le-w-ese-mi-nu.qmd">
+<td>
+<a href="./songs/S015-kilo-le-w-ese-mi-nu.html" class="title listing-title">Kilo le w’ese mi nu</a>
+</td>
+<td>
+<span class="listing-categories">Communion</span>
+</td>
+<td>
+<span class="listing-song_language">Yoruba</span>
+</td>
+<td>
+<span class="listing-song_type">Hymn</span>
+</td>
+<td>
+<span class="listing-key">G</span>
+</td>
+<td>
+<span class="listing-folder">Folder 3</span>
+</td>
+
+</tr>
+
+<tr data-index="12" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790949543463" data-listing-reading-time-sort="1" data-listing-word-count-sort="146" data-listing-title-sort="Kilo le wese mi nu" data-listing-filename-sort="S015-kilo-le-wese-mi-nu.qmd">
 <td>
 <a href="./songs/S015-kilo-le-wese-mi-nu.html" class="title listing-title">Kilo le wese mi nu</a>
 </td>
@@ -530,7 +567,7 @@ Vestry folder
 
 </tr>
 
-<tr data-index="12" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790949543471" data-listing-reading-time-sort="1" data-listing-word-count-sort="179" data-listing-title-sort="Mo faye ati f'emi fun" data-listing-filename-sort="S017-mo-faye-ati-f-emi-fun.qmd">
+<tr data-index="13" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790949543471" data-listing-reading-time-sort="1" data-listing-word-count-sort="179" data-listing-title-sort="Mo faye ati f'emi fun" data-listing-filename-sort="S017-mo-faye-ati-f-emi-fun.qmd">
 <td>
 <a href="./songs/S017-mo-faye-ati-f-emi-fun.html" class="title listing-title">Mo faye ati f’emi fun</a>
 </td>
@@ -552,7 +589,7 @@ Vestry folder
 
 </tr>
 
-<tr data-index="13" data-categories="V29yc2hpcCUyQ1ByYWlzZQ==" data-listing-file-modified-sort="1790949542801" data-listing-reading-time-sort="2" data-listing-word-count-sort="299" data-listing-title-sort="Oba ni Jesu" data-listing-filename-sort="S006-oba-ni-jesu.qmd">
+<tr data-index="14" data-categories="V29yc2hpcCUyQ1ByYWlzZQ==" data-listing-file-modified-sort="1790949542801" data-listing-reading-time-sort="2" data-listing-word-count-sort="299" data-listing-title-sort="Oba ni Jesu" data-listing-filename-sort="S006-oba-ni-jesu.qmd">
 <td>
 <a href="./songs/S006-oba-ni-jesu.html" class="title listing-title">Oba ni Jesu</a>
 </td>
@@ -574,7 +611,7 @@ Vestry folder
 
 </tr>
 
-<tr data-index="14" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790949543546" data-listing-reading-time-sort="2" data-listing-word-count-sort="333" data-listing-title-sort="Ojo nla l'ojo ti mo yan" data-listing-filename-sort="S018-ojo-nla-l-ojo-ti-mo-yan.qmd">
+<tr data-index="15" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790949543546" data-listing-reading-time-sort="2" data-listing-word-count-sort="333" data-listing-title-sort="Ojo nla l'ojo ti mo yan" data-listing-filename-sort="S018-ojo-nla-l-ojo-ti-mo-yan.qmd">
 <td>
 <a href="./songs/S018-ojo-nla-l-ojo-ti-mo-yan.html" class="title listing-title">Ojo nla l’ojo ti mo yan</a>
 </td>
@@ -596,7 +633,7 @@ Vestry folder
 
 </tr>
 
-<tr data-index="15" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790949543467" data-listing-reading-time-sort="2" data-listing-word-count-sort="220" data-listing-title-sort="Otito Jesu lo fun wenu mo" data-listing-filename-sort="S016-otito-jesu-lo-fun-wenu-mo.qmd">
+<tr data-index="16" data-categories="Q29tbXVuaW9u" data-listing-file-modified-sort="1790949543467" data-listing-reading-time-sort="2" data-listing-word-count-sort="220" data-listing-title-sort="Otito Jesu lo fun wenu mo" data-listing-filename-sort="S016-otito-jesu-lo-fun-wenu-mo.qmd">
 <td>
 <a href="./songs/S016-otito-jesu-lo-fun-wenu-mo.html" class="title listing-title">Otito Jesu lo fun wenu mo</a>
 </td>
@@ -618,7 +655,7 @@ Vestry folder
 
 </tr>
 
-<tr data-index="16" data-categories="SG9seSUyMFNwaXJpdA==" data-listing-file-modified-sort="1790949542808" data-listing-reading-time-sort="1" data-listing-word-count-sort="120" data-listing-title-sort="Our Father" data-listing-filename-sort="S008-our-father.qmd">
+<tr data-index="17" data-categories="SG9seSUyMFNwaXJpdA==" data-listing-file-modified-sort="1790949542808" data-listing-reading-time-sort="1" data-listing-word-count-sort="120" data-listing-title-sort="Our Father" data-listing-filename-sort="S008-our-father.qmd">
 <td>
 <a href="./songs/S008-our-father.html" class="title listing-title">Our Father</a>
 </td>
@@ -640,7 +677,7 @@ Vestry folder
 
 </tr>
 
-<tr data-index="17" data-categories="SG9seSUyMFNwaXJpdA==" data-listing-file-modified-sort="1790949543415" data-listing-reading-time-sort="1" data-listing-word-count-sort="123" data-listing-title-sort="Wa Emi Mimo" data-listing-filename-sort="S010-wa-emi-mimo.qmd">
+<tr data-index="18" data-categories="SG9seSUyMFNwaXJpdA==" data-listing-file-modified-sort="1790949543415" data-listing-reading-time-sort="1" data-listing-word-count-sort="123" data-listing-title-sort="Wa Emi Mimo" data-listing-filename-sort="S010-wa-emi-mimo.qmd">
 <td>
 <a href="./songs/S010-wa-emi-mimo.html" class="title listing-title">Wa Emi Mimo</a>
 </td>

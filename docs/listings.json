@@ -39,6 +39,12 @@
     ]
   },
   {
+    "listing": "/services.html",
+    "items": [
+      "/services/2026-10-04-sunday-service.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/songs/S012-aba-o-yo.html",
@@ -52,6 +58,7 @@
       "/songs/S009-ise-emi-mimo.html",
       "/songs/S005-joy-to-the-world.html",
       "/songs/S013-ke-re-o.html",
+      "/songs/S015-kilo-le-w-ese-mi-nu.html",
       "/songs/S015-kilo-le-wese-mi-nu.html",
       "/songs/S017-mo-faye-ati-f-emi-fun.html",
       "/songs/S006-oba-ni-jesu.html",
@@ -59,12 +66,6 @@
       "/songs/S016-otito-jesu-lo-fun-wenu-mo.html",
       "/songs/S008-our-father.html",
       "/songs/S010-wa-emi-mimo.html"
-    ]
-  },
-  {
-    "listing": "/services.html",
-    "items": [
-      "/services/2026-10-04-sunday-service.html"
     ]
   },
   {

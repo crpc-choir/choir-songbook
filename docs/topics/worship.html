@@ -135,6 +135,21 @@ window.Quarto = {
 <meta property="og:title" content="Worship – CRPC Choir Songbook">
 <meta property="og:image" content="https://crpc-choir.github.io/choir-songbook/topics/images/share.png">
 <meta property="og:site_name" content="CRPC Choir Songbook">
+<!-- pwa -->
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#1F3A2E">
+<link rel="apple-touch-icon" href="../icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="CRPC Songbook">
+<style>#pwa-offline{display:none;position:fixed;left:50%;bottom:calc(14px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:#1F3A2E;color:#F3F1E8;padding:.45rem 1rem;border-radius:999px;font:500 .9rem system-ui,sans-serif;z-index:2000;box-shadow:0 2px 8px rgba(0,0,0,.25);white-space:nowrap}</style>
+<script>
+if ('serviceWorker' in navigator) addEventListener('load', function () { navigator.serviceWorker.register('../sw.js').catch(function () {}); });
+(function () { function show() { var b = document.getElementById('pwa-offline');
+  if (!b) { b = document.createElement('div'); b.id = 'pwa-offline'; b.setAttribute('role', 'status'); b.textContent = 'Offline: showing saved songs'; document.body.appendChild(b); }
+  b.style.display = navigator.onLine ? 'none' : 'block'; }
+  addEventListener('online', show); addEventListener('offline', show); addEventListener('DOMContentLoaded', show); })();
+</script>
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">

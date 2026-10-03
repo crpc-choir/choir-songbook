@@ -8,6 +8,9 @@ project:
     - "songs/*.qmd"
     - "topics/*.qmd"
     - "services/*.qmd"
+  resources:
+    - "audio/*"
+  post-render: R/post_render.R
 
 website:
   site-url: https://crpc-choir.github.io/choir-songbook/
